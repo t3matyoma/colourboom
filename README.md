@@ -1,8 +1,8 @@
-# Colour-boom.css
+# Colour-boom.css :rainbow:
 
 Special library for newbie in web-development
 
-## Getting Started
+## Getting Started :electric_plug:
 
 Just download colour-boom.css and add link to library in <head> of your project.
 ```
@@ -19,7 +19,7 @@ text-decoration-color: var(--dark-hover);
 }
 ```
 
-#### That's all. 
+#### That's all. :sunglasses:
 You can turn on your imagination and make anything you want!
 ```
 svg.icon.github{
@@ -35,7 +35,7 @@ svg.icon.twitter{
   fill: var(--twitter);
 }
 ```
-## Best combination with:
+## Best combination with: :revolving_hearts:
 
 * [Bulma](https://bulma.io) - The web framework, alternative of Boosttrap
 * [FontAwesome Icons](https://fontawesome.com) - Best icons: svg and other.
