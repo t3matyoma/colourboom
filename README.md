@@ -42,4 +42,4 @@ svg.icon.twitter{
 
 ## Author
 
-* **Kaplin Artem** - *All styles, colours and web :heart_eyes:*
+* **[Kaplin Artem](https://temakaplin.github.io)**  - *All styles, colours and web :heart_eyes:*
