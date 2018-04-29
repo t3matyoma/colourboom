@@ -20,7 +20,7 @@ text-decoration-color: var(--dark-hover);
 ```
 
 #### That's all. :sunglasses:
-You can turn on your imagination and make anything you want!
+Just turn on your imagination and make anything you want!
 ```
 svg.icon.github{
     fill: var(--github);
