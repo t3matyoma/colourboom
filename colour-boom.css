@@ -1,0 +1,119 @@
+ :root{
+   /* for web elements */
+    --background: #F9FAFB;
+    --dark: #111111;
+    --white: #FFFFFF;
+    --yellow: #FEDB21;
+    --beige: #ffedd7;
+    --beige-hover: rgba(255, 237, 215, 0.20);
+    --black: #aaa;
+    --dark-hover: rgba(17, 17, 17, 0.20);
+    --peach: #EF6367;
+
+       /* Brands colors */
+       --adobe-red: #ff0000;
+       --adobe-orange: #fbb034;
+       --adobe-yellow: #ffdd00;
+       --adobe-green: #c1d82f;
+       --adobe-blue: #00a4e4;
+       --adobe-brown: #8a7967;
+       --adobe-gray: #6a737b;
+
+       --px500-blue: #0099e5;
+       --px500-red: #ff4c4c;
+       --px500-green: #34bf49;
+
+      --avast-orange: #ff7800;
+      --avast-blue: #2d364c;
+      --avast-purple: #6534ac;
+
+      --aim: #ffd900;
+
+      --airbnb: #fd5c63;
+
+      --akamai-blue: #0099cc;
+      --akamai-orange: #ff9933;
+
+      --alibaba: #ff6a00;
+
+      --alphabet: #ed1c24;
+
+      --android: #a4c639;
+
+      --angular-js-brown: #b52e31;
+      --angular-js-dark: #000000;
+
+      --answer-blue: #136ad5;
+      --answer-orange: #fb8a2e;
+
+      --aol-red: #ff0b00;
+      --aol-blue: #00c4ff;
+
+      --ask-fm: #db3552;
+
+      --at-t: #00a8e0;
+
+      --avira: #d40000;
+
+      --bandcamp: #629aa9;
+
+      --beats: #e01f3d;
+
+      --bitbucket: #205081;
+
+      --bitly-orange: #ee6123;
+      --bitly-blue: #61b3de;
+
+      --blogger: #f57d00;
+
+      --box: #0061d5;
+
+      --bebo: #e04646;
+
+      --behance: #1769ff;
+
+      /* Brands colors with hover-colour */
+      --vk:#4d75a3;
+      --vk-hover:#678fbd;
+
+      --fb:#3b5998;
+      --fb-hover:#5573b2;
+
+      --twitter:#55acee;
+      --twitter-hover:rgba(111, 198, 255, 0.51);
+
+      --google-plus:#dc4e41;
+      --google-plus-hover:#f6685b;
+
+      --telegram: #0088cc;
+
+      --ok:#e67e17;
+      --ok-hover:#ff9831;
+
+      --sky:#488bfa;
+      --sky-hover:#62a5ff;
+
+      --yandex:#FF0000;
+      --yandex-hover:#ff6161;
+
+      /* Pure colours for newbie in WEB*/
+      --pure-red: #f44327;
+
+      --green:#3BDE86;
+      --green-hover:rgba(108, 230, 164, 0.51);
+
+      --blue:#488bfa;
+      --blue-hover:rgba(98, 165, 255, 0.51);
+
+      --orange:#fab200;
+      --orange-hover:rgba(251, 193, 51, 0.51);
+
+      --red:#F74659;
+      --red-hover:rgba(252, 106, 122, 0.51);
+
+      --grey:#F4F3F3;
+      --grey-hover:#eaeaea;
+
+      --purple: #a072ed;
+      --purple-hover: rgba(160, 114, 237, 0.51);
+ }
